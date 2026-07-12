@@ -164,8 +164,8 @@ tableau-sales-customer-dashboard
 
 Aspiring Data Analyst passionate about building interactive dashboards and transforming business data into actionable insights.
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: *(https://www.linkedin.com/in/shk-javed/)*
+- GitHub: *(https://github.com/shk-javed)*
 
 ---
 
