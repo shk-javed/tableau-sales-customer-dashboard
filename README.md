@@ -1,16 +1,19 @@
 # 📊 Sales & Customer Analytics Dashboard | Tableau
 
-An interactive **Tableau Business Intelligence Dashboard** designed to analyze **Sales Performance** and **Customer Behavior** through dynamic KPIs, year-over-year comparisons, and actionable business insights.
+An interactive **Tableau Business Intelligence Dashboard** designed to analyze **Sales Performance** and **Customer Behavior** using dynamic KPIs, year-over-year comparisons, and interactive visualizations.
 
-This project demonstrates end-to-end dashboard development using **Tableau**, including KPI reporting, calculated fields, parameters, table calculations, and interactive business intelligence visualizations.
+This project demonstrates end-to-end dashboard development in **Tableau**, including calculated fields, parameters, table calculations, dashboard actions, and business intelligence reporting to support data-driven decision making.
 
 ---
 
 # 🚀 Project Overview
 
-Business stakeholders need a centralized dashboard to monitor sales performance, profitability, customer behavior, and purchasing trends.
+Organizations generate large volumes of transactional sales data every day. This project transforms raw business data into interactive dashboards that help stakeholders monitor performance, identify trends, evaluate customer behavior, and make informed business decisions.
 
-This project transforms raw transactional data into interactive dashboards that enable better business decisions through meaningful visualizations and performance monitoring.
+The solution consists of two fully interactive dashboards:
+
+- 📈 Sales Dashboard
+- 👥 Customer Dashboard
 
 ---
 
@@ -24,8 +27,8 @@ This project transforms raw transactional data into interactive dashboards that 
 - Track Weekly Sales & Profit Trends
 - Analyze Customer Distribution by Number of Orders
 - Identify Top 10 Customers by Profit
-- Monitor Customer Sales Performance
-- Enable interactive business analysis using filters and dashboard actions
+- Evaluate Customer Sales Performance
+- Enable dynamic business analysis using interactive filters
 
 ---
 
@@ -45,13 +48,13 @@ This project transforms raw transactional data into interactive dashboards that 
 
 # 📊 Dashboard Preview
 
-## Sales Dashboard
+## 📈 Sales Dashboard
 
 ![Sales Dashboard](Images/sales-dashboard.png)
 
 ---
 
-## Customer Dashboard
+## 👥 Customer Dashboard
 
 ![Customer Dashboard](Images/customer-dashboard.png)
 
@@ -73,6 +76,7 @@ This project transforms raw transactional data into interactive dashboards that 
 - Weekly Profit Trend
 - Above & Below Average Weekly Analysis
 - Interactive Filters
+- Dashboard Navigation
 
 ---
 
@@ -83,62 +87,58 @@ This project transforms raw transactional data into interactive dashboards that 
 - Total Orders KPI
 - Monthly Customer Trends
 - Highest & Lowest Month Identification
-- Customer Distribution Histogram
+- Customer Distribution by Number of Orders
 - Top 10 Customers by Profit
 - Customer Ranking
 - Last Order Date
-- Interactive Navigation
+- Interactive Filters
+- Dashboard Navigation
 
 ---
 
 # 📈 Key Insights
 
-### Sales
+## Sales Insights
 
 - Sales performance improved compared to the previous year.
-- Several product subcategories consistently generated higher revenue.
-- Weekly sales exceeded the average during seasonal periods.
-- Profitability varied significantly across product categories.
+- Product subcategories contributed differently to overall profitability.
+- Seasonal trends significantly influenced weekly sales.
+- High-performing weeks consistently exceeded average sales.
 
-### Customers
+## Customer Insights
 
-- A small number of customers contributed a large share of total profit.
+- A small percentage of customers generated the highest profits.
 - Most customers placed between one and three orders.
 - Customer purchasing activity increased during the final quarter.
-- High-value customers present strong retention opportunities.
+- Repeat customers contributed significantly to business growth.
 
 ---
 
 # 💡 Business Recommendations
 
-- Increase marketing efforts for high-performing product categories.
-- Optimize inventory before seasonal demand peaks.
+- Increase focus on high-performing product categories.
+- Optimize inventory planning before seasonal demand peaks.
 - Develop loyalty programs for high-value customers.
-- Encourage repeat purchases from low-frequency customers.
-- Monitor underperforming months to improve revenue performance.
-- Use customer order behavior for targeted business strategies.
+- Improve marketing campaigns during low-performing months.
+- Encourage repeat purchases through customer segmentation.
+- Continuously monitor customer purchasing behavior using KPI dashboards.
 
 ---
 
 # 📁 Repository Structure
 
 ```text
-tableau-sales-customer-dashboard
+tableau-sales-customer-dashboard/
 │
-├── Dashboard
-│   └── Sales Dashboard.twbx
+├── README.md
+├── LICENSE
 │
-├── Dataset
-│   ├── Orders.csv
-│   ├── Customers.csv
-│   ├── Products.csv
-│   └── Location.csv
+├── Dashboard/
+│   └── tableau-sales-customer-dashboard.twbx
 │
-├── Images
-│   ├── sales-dashboard.png
-│   └── customer-dashboard.png
-│
-└── README.md
+└── Images/
+    ├── sales-dashboard.png
+    └── customer-dashboard.png
 ```
 
 ---
@@ -150,23 +150,26 @@ tableau-sales-customer-dashboard
 - KPI Reporting
 - Sales Analytics
 - Customer Analytics
-- Data Visualization
 - Business Storytelling
-- Interactive Dashboard Design
+- Dashboard Design
+- Data Visualization
 - Data Modeling
 - Table Calculations
+- Interactive Dashboard Development
 
 ---
 
 # 👨‍💻 Author
 
-**Shaikh Javed**
+## Shaikh Javed
 
-Aspiring Data Analyst passionate about building interactive dashboards and transforming business data into actionable insights.
+Aspiring Data Analyst passionate about transforming business data into actionable insights through interactive dashboards and business intelligence solutions.
 
-- LinkedIn: *(https://www.linkedin.com/in/shk-javed/)*
-- GitHub: *(https://github.com/shk-javed)*
+### Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/shk-javed/
+- **GitHub:** https://github.com/shk-javed
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository.
+⭐ If you found this project helpful, feel free to **Star ⭐ this repository**.
